@@ -187,7 +187,7 @@ iOS developer. My responsibilites were to communicate with my team lead.
 * StoreKit
 * GameKit 
 ### Screenshots ###
-<p align="center">
+<p>
 <img src="https://i.imgur.com/Lb8Gcpz.jpg" width="230" title="">
 <img src="https://i.imgur.com/eKTjGPv.jpg" width="230" title="">
 <img src="https://i.imgur.com/cT2CqLp.jpg" width="230" title="">
