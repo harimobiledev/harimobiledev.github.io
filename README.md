@@ -33,7 +33,7 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 * Lottie-Animations
 
 ### Screenshots ###
-<p align="center">
+<p>
 <img src="https://i.imgur.com/C3vsvMR.jpg" width="150" title="">
 <img src="https://i.imgur.com/HZJNzFH.jpg" width="150" title="">
 <img src="https://i.imgur.com/ZQlmFyw.jpg" width="150" title="">
@@ -60,7 +60,7 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
 * ARKit
 
 ### Screenshots ###
-<p align="center">
+<p>
 <img src="https://i.imgur.com/7D6hBzF.png" width="150" title="">
 <img src="https://i.imgur.com/muVWn7J.png" width="150" title="">
 <img src="https://i.imgur.com/VJpLRqP.png" width="150" title="">
@@ -82,7 +82,7 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
 * Modular Approaach
 * ARKit
 ### Screenshots ###
-<p align="center">
+<p>
 <img src="https://i.imgur.com/cykUvKM.png" width="230" title="">
 <img src="https://i.imgur.com/OLZtYln.png" width="230" title="">
 </p>
@@ -101,7 +101,7 @@ Lead iOS developer communicating with client, understanding requirements and spr
 * AVFoundation
 * ARKit
 ### Screenshots ###
-<p align="center">
+<p>
 <img src="https://i.imgur.com/ZHTMeeh.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/3B3y9JL.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/7wFu6az.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -123,7 +123,7 @@ Senior iOS developer. My responsibilites were to communicate with my team lead.
 * SQL database
 * Storyboards and Autolayouts
 ### Screenshots ###
-<p align="center">
+<p>
 <img src="https://i.imgur.com/D1TF6j9.png" width="230" title="">
 <img src="https://i.imgur.com/CtYsbKA.png" width="230" title="">
 <img src="https://i.imgur.com/XfKdS93.png" width="230" title="">
@@ -142,7 +142,7 @@ iOS developer. My responsibilites were to communicate with my team lead.
 * SQL database
 * Storyboards and Autolayouts
 ### Screenshots ###
-<p align="center">
+<p>
 <img src="https://i.imgur.com/Dv8N5op.png" width="230" title="">
 <img src="https://i.imgur.com/YoWEfIF.png" width="230" title="">
 <img src="https://i.imgur.com/yRR0euG.png" width="230" title="">
@@ -164,7 +164,7 @@ iOS developer. My responsibilites were to communicate with my team lead.
 * Storyboards and Autolayouts
 * StoreKit
 ### Screenshots ###
-<p align="center">
+<p>
 <img src="https://i.imgur.com/biiKkAU.jpg" width="230" title="">
 <img src="https://i.imgur.com/1YNxCYb.jpg" width="230" title="">
 <img src="https://i.imgur.com/i9jbEcH.jpg" width="230" title="">
