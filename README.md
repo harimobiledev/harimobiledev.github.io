@@ -61,10 +61,10 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
 
 ### Screenshots ###
 <p align="center">
-<img src="https://i.imgur.com/7D6hBzF.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/muVWn7J.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/VJpLRqP.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/4d5FUOR.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/7D6hBzF.png" width="150" title="">
+<img src="https://i.imgur.com/muVWn7J.png" width="150" title="">
+<img src="https://i.imgur.com/VJpLRqP.png" width="150" title="">
+<img src="https://i.imgur.com/4d5FUOR.png" width="150" title="">
 </p>
 
 ---
@@ -83,9 +83,8 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
 * ARKit
 ### Screenshots ###
 <p align="center">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/pmtalks_1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/pmtalks_2.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/pmtalks_3.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/cykUvKM.png" width="230" title="">
+<img src="https://i.imgur.com/OLZtYln.png" width="230" title="">
 </p>
 
 ---
@@ -103,9 +102,9 @@ Lead iOS developer communicating with client, understanding requirements and spr
 * ARKit
 ### Screenshots ###
 <p align="center">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/breasthealth_1.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/breasthealth_2.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/breasthealth_3.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/ZHTMeeh.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/3B3y9JL.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/7wFu6az.png" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -125,10 +124,10 @@ Senior iOS developer. My responsibilites were to communicate with my team lead.
 * Storyboards and Autolayouts
 ### Screenshots ###
 <p align="center">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/recipes_1.png" width="230" title="">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/recipes_2.png" width="230" title="">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/recipes_3.png" width="230" title="">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/recipes_4.png" width="230" title="">
+<img src="https://i.imgur.com/D1TF6j9.png" width="230" title="">
+<img src="https://i.imgur.com/CtYsbKA.png" width="230" title="">
+<img src="https://i.imgur.com/XfKdS93.png" width="230" title="">
+<img src="https://i.imgur.com/js3426w.png" width="230" title="">
 </p>
 
 ---
@@ -144,10 +143,10 @@ iOS developer. My responsibilites were to communicate with my team lead.
 * Storyboards and Autolayouts
 ### Screenshots ###
 <p align="center">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_1.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_2.png" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_3.png" width="230" title="">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/gre_4.png" width="230" title="">
+<img src="https://i.imgur.com/Dv8N5op.png" width="230" title="">
+<img src="https://i.imgur.com/YoWEfIF.png" width="230" title="">
+<img src="https://i.imgur.com/yRR0euG.png" width="230" title="">
+<img src="https://i.imgur.com/J5p7jzD.png" width="230" title="">
 </p>
 
 ---
@@ -166,11 +165,11 @@ iOS developer. My responsibilites were to communicate with my team lead.
 * StoreKit
 ### Screenshots ###
 <p align="center">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_1.jpeg" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_2.jpeg" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_3.jpeg" width="230" title="">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_4.jpeg" width="230" title="">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/collection_5.jpeg" width="230" title="">
+<img src="https://i.imgur.com/biiKkAU.jpg" width="230" title="">
+<img src="https://i.imgur.com/1YNxCYb.jpg" width="230" title="">
+<img src="https://i.imgur.com/i9jbEcH.jpg" width="230" title="">
+<img src="https://i.imgur.com/GZOPjvI.jpg" width="230" title="">
+<img src="https://i.imgur.com/5TBnivA.jpg" width="230" title="">
 </p>
 
 ---
@@ -189,9 +188,9 @@ iOS developer. My responsibilites were to communicate with my team lead.
 * GameKit 
 ### Screenshots ###
 <p align="center">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_1.jpg" width="230" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_3.jpg" width="230" title="Spirituality">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/trivia_4.jpg" width="230" title="Spirituality">
+<img src="https://i.imgur.com/Lb8Gcpz.jpg" width="230" title="">
+<img src="https://i.imgur.com/eKTjGPv.jpg" width="230" title="">
+<img src="https://i.imgur.com/cT2CqLp.jpg" width="230" title="">
+<img src="https://i.imgur.com/TEbzunh.jpg" width="230" title="">
 </p>
 
