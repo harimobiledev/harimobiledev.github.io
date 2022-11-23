@@ -42,6 +42,7 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 <img src="https://i.imgur.com/kfHfMIy.jpg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/y1KsoLX.jpg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/lQEivyk.jpg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </p>
  
 ---
 # [CMXAR‬]
