@@ -34,14 +34,14 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 
 ### Screenshots ###
 <p align="center">
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2186.jpeg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2189.jpeg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2191.jpeg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2192.jpeg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2193.jpeg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2194.jpeg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2195.jpeg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/harimobiledev/portfolio/blob/main/images/dhyana/IMG_2196.jpeg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/C3vsvMR.jpg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/HZJNzFH.jpg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/ZQlmFyw.jpg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/UkeZIgK.jpg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/OHwIWoP.jpg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/kfHfMIy.jpg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/y1KsoLX.jpg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/lQEivyk.jpg" width="150" title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 ---
 # [CMXAR‬]
