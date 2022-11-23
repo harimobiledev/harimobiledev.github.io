@@ -20,15 +20,16 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 * Modular Approach
 * Dark mode support
 * Combine
+* HealthKit
+* CoreBluetooth
+* StoreKit
+* AVFoundation
 * Neumorphic design
 * MVVM Pattern & RxSwift
 * Database: Realm
 * Analytics libraries: MixPanel, Firebase
 * Social Sign ins: Google, Apple
 * Push Notifications
-* CoreBluetooth
-* StoreKit
-* AVFoundation
 * Alamofire
 * Lottie-Animations
 
