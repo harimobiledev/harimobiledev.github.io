@@ -154,7 +154,7 @@ iOS developer. My responsibilites were to communicate with my team lead.
 
 ---
 
-# [CMXAR‬]
+# CMXAR‬
 CMxAR is revolutionary Augmented Reality application which is used for political campeign. Using the latest ARKit technology, app shows the farmer CM of Karnataka, Hon. Siddaramaiah appear life size in home, living room, anywhere! App will play his message to users and take unlimited selfies with him! Project was written in Swift with all UI build programatically. 
  
 It's an seasonal application. It was removed from Appstore after the 2018 elections over.
@@ -177,7 +177,7 @@ Senior iOS developer Communicating with Avantari's Bussiness team, New features 
 </p>
 
 ---
-# [HebatkanNegaraku]
+# HebatkanNegaraku
 Using Augmented Reality with marker technology, this app has made Street Posters COME TO LIFE & SPEAK. Users just need to place the phone camera infront of the posters of Malaysia Ex prime minister Mr. Najib Razak, app will start playing the PM message on those posters.
 
 HebatkanNegaraku is an seasonal application. It was removed from Appstore after the 2018 elections over.
