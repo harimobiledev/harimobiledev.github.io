@@ -44,49 +44,6 @@ Lead iOS Engineer Communicating with Avantari Bussiness team, understanding requ
 <img src="https://i.imgur.com/y1KsoLX.jpg" width="150" title="">
 <img src="https://i.imgur.com/lQEivyk.jpg" width="150" title="">
  </p>
- 
----
-# [CMXAR‬]
-CMxAR is revolutionary Augmented Reality application which is used for political campeign. Using the latest ARKit technology, app shows the farmer CM of Karnataka, Hon. Siddaramaiah appear life size in home, living room, anywhere! App will play his message to users and take unlimited selfies with him! Project was written in Swift with all UI build programatically. 
- 
-It's an seasonal application. It was removed from Appstore after the 2018 elections over.
-
-### My Role ###
-Senior iOS developer Communicating with Avantari's Bussiness team, New features and refactoring, understanding requirements and sprint planning.
-
-### Technologies ###
-* Swift
-* Storyboards and Autolayouts
-* Modular Approaach
-* ARKit
-
-### Screenshots ###
-<p>
-<img src="https://i.imgur.com/7D6hBzF.png" width="150" title="">
-<img src="https://i.imgur.com/muVWn7J.png" width="150" title="">
-<img src="https://i.imgur.com/VJpLRqP.png" width="150" title="">
-<img src="https://i.imgur.com/4d5FUOR.png" width="150" title="">
-</p>
-
----
-# [HebatkanNegaraku]
-Using Augmented Reality with marker technology, this app has made Street Posters COME TO LIFE & SPEAK. Users just need to place the phone camera infront of the posters of Malaysia Ex prime minister Mr. Najib Razak, app will start playing the PM message on those posters.
-
-HebatkanNegaraku is an seasonal application. It was removed from Appstore after the 2018 elections over.
-
-### My Role ###
-Senior iOS developer Communicating with Avantari's Bussiness team, New features and refactoring, understanding requirements and sprint planning.
-
-### Technologies ###
-* Swift
-* Storyboards and Autolayouts
-* Modular Approaach
-* ARKit
-### Screenshots ###
-<p>
-<img src="https://i.imgur.com/cykUvKM.png" width="230" title="">
-<img src="https://i.imgur.com/OLZtYln.png" width="230" title="">
-</p>
 
 ---
 # [ABC's of Breast Health](https://apps.apple.com/us/app/abcs-of-breast-health/id1482487468)
@@ -195,3 +152,46 @@ iOS developer. My responsibilites were to communicate with my team lead.
 <img src="https://i.imgur.com/TEbzunh.jpg" width="230" title="">
 </p>
 
+---
+
+# [CMXAR‬]
+CMxAR is revolutionary Augmented Reality application which is used for political campeign. Using the latest ARKit technology, app shows the farmer CM of Karnataka, Hon. Siddaramaiah appear life size in home, living room, anywhere! App will play his message to users and take unlimited selfies with him! Project was written in Swift with all UI build programatically. 
+ 
+It's an seasonal application. It was removed from Appstore after the 2018 elections over.
+
+### My Role ###
+Senior iOS developer Communicating with Avantari's Bussiness team, New features and refactoring, understanding requirements and sprint planning.
+
+### Technologies ###
+* Swift
+* Storyboards and Autolayouts
+* Modular Approaach
+* ARKit
+
+### Screenshots ###
+<p>
+<img src="https://i.imgur.com/7D6hBzF.png" width="150" title="">
+<img src="https://i.imgur.com/muVWn7J.png" width="150" title="">
+<img src="https://i.imgur.com/VJpLRqP.png" width="150" title="">
+<img src="https://i.imgur.com/4d5FUOR.png" width="150" title="">
+</p>
+
+---
+# [HebatkanNegaraku]
+Using Augmented Reality with marker technology, this app has made Street Posters COME TO LIFE & SPEAK. Users just need to place the phone camera infront of the posters of Malaysia Ex prime minister Mr. Najib Razak, app will start playing the PM message on those posters.
+
+HebatkanNegaraku is an seasonal application. It was removed from Appstore after the 2018 elections over.
+
+### My Role ###
+Senior iOS developer Communicating with Avantari's Bussiness team, New features and refactoring, understanding requirements and sprint planning.
+
+### Technologies ###
+* Swift
+* Storyboards and Autolayouts
+* Modular Approaach
+* ARKit
+### Screenshots ###
+<p>
+<img src="https://i.imgur.com/cykUvKM.png" width="230" title="">
+<img src="https://i.imgur.com/OLZtYln.png" width="230" title="">
+</p>
